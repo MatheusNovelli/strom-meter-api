@@ -1,0 +1,7 @@
+[project]
+name = "strom-meter-api"
+description = "API that returns processed information about Germany electric energy prices"
+version = "1.0.0"
+dependencies = [
+    "fastapi[standard]>=0.142.2",
+]
